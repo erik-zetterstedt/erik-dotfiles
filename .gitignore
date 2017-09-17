@@ -1,0 +1,10 @@
+/vim/.vim/swap/*
+!/vim/.vim/swap/empty
+/vim/.vim/plugged/
+/vim/.vim/.netrwhist
+
+/w3m/.w3m/*
+!/w3m/.w3m/config
+
+/xmonad/.xmonad/*
+!/xmonad/.xmonad/xmonad.hs

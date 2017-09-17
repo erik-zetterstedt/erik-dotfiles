@@ -1,0 +1,13 @@
+[user]
+	email = erik.zetterstedt@gmail.com
+	name = erik-zetterstedt 
+[alias]
+	st = status
+	aa = add --all
+	d = diff
+	dc = diff --cached
+	dt = difftool
+	dtc = difftool --cached
+	co = checkout
+[diff]
+	tool = vimdiff
